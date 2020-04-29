@@ -1,0 +1,45 @@
+body {
+  background: lightblue url(images/background.jpg) no-repeat center fixed;
+  background-size: cover;
+  width: 600px;
+  font-family: "Montserrat", sans-serif;
+  margin: 50px auto 200px;
+}
+
+.main {
+  background-color: rgba(255, 255, 255, 0.8);
+  border-radius: 25px;
+  border: 2px solid purple;
+}
+
+.center {
+  text-align: center;
+}
+
+.login {
+  background-color: purple;
+  color: white;
+  padding: 40px 75px;
+}
+
+.loginBtn {
+  padding: 5px 15px;
+  font-size: 20px;
+  background-color: green;
+  color: white;
+}
+.fyp {
+  font-family: Georgia;
+  text-decoration: none;
+  color: white;
+  font-style: italic;
+}
+a:hover.fyp {
+  text-decoration: underline;
+  color: yellow;
+}
+
+.icons {
+  padding: 20px 0;
+  letter-spacing: 10px;
+}
