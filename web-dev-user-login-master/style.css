@@ -22,12 +22,13 @@ body {
   padding: 40px 75px;
 }
 
-.loginBtn {
+#loginBtn {
   padding: 5px 15px;
   font-size: 20px;
   background-color: green;
   color: white;
 }
+
 .fyp {
   font-family: Georgia;
   text-decoration: none;
